@@ -71,7 +71,3 @@ This project outlines the development of a decentralized "Deadman Switch" applic
 - **Off-Chain Storage:** Integrate IPFS or similar decentralized storage solutions for handling larger files while storing references on-chain.
 - **Trigger Notifications:** Add notification mechanisms like email or SMS to remind users before trigger deadlines.
 - **Advanced Triggers:** Incorporate multi-user and conditional logic triggers to expand functionality.
-
----
-
-This detailed overview provides a comprehensive understanding of the planned features and technology stack for **dropdead.me**, the Deadman Switch on Chain.
